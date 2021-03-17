@@ -1,0 +1,6 @@
+user=anttejedor
+password=7Z02l8YWDC0sME
+host_name=ftp://tickdata.darwinex.com
+start_date=2019-10-25 04
+end_date=2019-10-25 05
+percentile=0.95

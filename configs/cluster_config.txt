@@ -1,0 +1,5 @@
+date_start=2015-01-01
+date_end=2019-12-31
+anual_return=0.1
+max_dd_allow=0.12
+min_trades_month=2.5
